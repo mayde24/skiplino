@@ -1,0 +1,2 @@
+class SalutsController < ApplicationController
+end

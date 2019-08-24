@@ -1,0 +1,2 @@
+module SalutsHelper
+end
